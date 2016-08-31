@@ -1,4 +1,6 @@
-/* This is a brute force approach to solve the problem with a runtime of O(n).*/
+/* This is a brute force approach to solve the problem with a runtime of O(n).
+Find if array can be divided into two subarrays of equal sum
+*/
 
 #include <stdio.h>
 #include <string.h>
